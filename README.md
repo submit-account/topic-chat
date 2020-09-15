@@ -2,7 +2,7 @@
 
 ## Demo
 
-http://nlp.dothome.ac.kr/topic_chat.html
+http://nlp.dothome.co.kr/topic_chat.html
 
 좌측 상단의 입력 텍스트 박스에 입력할 발화를 기재한 후 엔터 키를 누르면 모델의 답변이 화면에 출력된다. 답변은 1차 보고서 3.1절에서 설명한 복합 표현 단위로 출력된다. 생성되는 토큰 종류는 다음과 같다.
 
