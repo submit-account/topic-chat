@@ -1,7 +1,7 @@
 # topic-chat
 
 <p float="left" align="center">
-    <img width="900" src="http://nlp.dothome.co.kr/model.png" />  
+    <img width="900" src="http://nlp.dothome.co.kr/model1.png" />  
 </p>
 Dual WGAN 기반 페르소나 챗봇 모델을 일부 변형하여 국립국어연구원에서 공개한 구어 말뭉치와 한국정보화진흥원에서 공개한 주제 기반 말뭉치(한국어 대화 데이터)를 이용하여 학습한 챗봇입니다.
 
