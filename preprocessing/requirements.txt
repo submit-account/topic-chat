@@ -1,0 +1,2 @@
+openpyxl
+KACTEIL_NC (형태소 분석기)
