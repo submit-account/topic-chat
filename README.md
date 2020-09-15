@@ -51,4 +51,5 @@ http://nlp.dothome.co.kr/topic_chat.html
 
 ## Source
 20/09/15: 데모 페이지 업로드
+
 20/09/15: `preprocessing` 공개 데이터(국립국어연구원 구어 데이터, aihub 한국어 대화 데이터) 정제 코드 업로드
