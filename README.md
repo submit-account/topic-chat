@@ -1,5 +1,10 @@
 # topic-chat
 
+<p float="left" align="center">
+    <img width="900" src="http://nlp.dothome.co.kr/model.png" />  
+</p>
+Dual WGAN 기반 페르소나 챗봇 모델을 일부 변형하여 국립국어연구원에서 공개한 구어 말뭉치와 한국정보화진흥원에서 공개한 소량의 주제 기반 말뭉치를 이용하여 학습한 챗봇입니다.
+
 ## Demo
 
 http://nlp.dothome.co.kr/topic_chat.html
@@ -15,6 +20,8 @@ http://nlp.dothome.co.kr/topic_chat.html
 | :-----: | :-------------------------------------- |
 | 1 | 두 번째 줄의 radio button을 이용해 대화 주제를 정할 수 있습니다. chit-chat을 제외한 부분은 챗봇이 해당 주제의 점원 역할을 하고 사용자는 고객 입장에서 발화하는 것을 기준으로 합니다. |
 | 2 | 세 번째 줄의 직전 context 반영 버튼은 모델의 입력을 single-turn으로 할지 multi-turn으로 할지 정해주는 옵션다. 버튼 클릭 시 이전 발화도 최대 두 개까지 입력으로 함께 들어갑니다. |
+
+현재 데모가 통신하는 모델은 1차 보고서에 기재된 전체 데이터(약 4.6K 개)를 이용해 학습한 모델입니다.
 
 ## Training Details
 
