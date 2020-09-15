@@ -41,3 +41,6 @@ http://nlp.dothome.ac.kr/topic_chat.html
 | decoder_learning_rate   | 0.001 ~ 0.0001 |
 | z_learning_rate         |        0.00002 |
 | response_learning_rate  |        0.00005 |
+
+## Source
+20/09/15: `preprocessing` 공개 데이터(국립국어연구원 구어 데이터, aihub 한국어 대화 데이터) 정제 코드 업로드
